@@ -3,7 +3,7 @@ CS53-10
 
 Assignment 10
 
-//NAME: HICKS, JENKINS
+//NAME: HICKS, MICHAEL / JENKINS, TYLER
 //DATE: 18 NOV, 2013
 //CLASS: 53
 //SECTION: E
@@ -15,6 +15,6 @@ using namespace std;
 
 int main()
 {
-  cout<<"Hello World";
-  return 0;
+  
+  
 }
