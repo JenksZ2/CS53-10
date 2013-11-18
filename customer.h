@@ -1,7 +1,10 @@
-//NAME:         HICKS, MICAHEL / JENKINS, TYLER
+//Homework 10
+///////////////////
+
+//NAME:         HICKS, MICHAEL / JENKINS, TYLER
+//DATE:         Nov 18th, 2013
 //CLASS:        CS 53
 //SECTION:      E
-//DATE:         11-18-2013
 //DESCRIPTION:  
 using namespace std;
 
