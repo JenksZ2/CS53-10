@@ -1,7 +1,5 @@
-CS53-10
-=======
-
-Assignment 10
+//CS53, Assignment 10
+//////////////////////
 
 //NAME: HICKS, MICHAEL / JENKINS, TYLER
 //DATE: 18 NOV, 2013
